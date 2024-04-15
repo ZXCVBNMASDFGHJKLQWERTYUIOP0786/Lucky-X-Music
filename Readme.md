@@ -1,4 +1,4 @@
-`LuckyBETA version`
+`LUCKYBETA version`
 </details>
 <details>
 <summary><b>ＡＢＯＵＴ ＲＥＰＯＳＩＴＯＲＹ</b></summary>
