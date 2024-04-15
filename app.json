@@ -1,12 +1,12 @@
 {
-  "name": "LuckyX MUSIC",
+  "name": "𝐋𝚞𝚌𝚔𝚢🅧𝐌𝚞𝚜𝚒𝚌",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
   "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Raja",
+    "Lucky",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -29,7 +29,7 @@
     },
     "MONGO_DB_URI": {
       "description": "Get a MongoDB URL from https://cloud.mongodb.com Or Don't Change this.",
-      "value": "mongodb+srv://RajaV1:Raja85@Lucky.bfgvyxi.mongodb.net/?retryWrites=true&w=majority&appName=Lucky",
+      "value": "",
       "required": true
     },
     "OWNER_ID": {
