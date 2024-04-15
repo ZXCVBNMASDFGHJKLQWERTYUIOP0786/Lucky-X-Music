@@ -1,4 +1,4 @@
-`LUCKY MUSIC version`
+`LUCKY MUSIC VERSION`
 </details>
 <details>
 <summary><b>ＡＢＯＵＴ ＲＥＰＯＳＩＴＯＲＹ</b></summary>
